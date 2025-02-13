@@ -1,7 +1,4 @@
-# Cheat code do Pandas
+# Cheat code do Numpy
 
-![Funções básicas](https://github.com/ML-Passionate/Python-Libs-Public/blob/main/images/Pandas1.png)
+![Funções básicas](https://github.com/ML-Passionate/Python-Libs-Public/blob/main/images/Numpy.jpg)
 
-![Funções básicas](https://github.com/ML-Passionate/Python-Libs-Public/blob/main/images/pandas2.gif)
-
-![Funções básicas](https://github.com/ML-Passionate/Python-Libs-Public/blob/main/images/pandas3.gif)
