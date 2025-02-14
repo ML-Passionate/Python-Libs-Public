@@ -19,5 +19,5 @@ Cheat code das funções do [MatlibPro](https://github.com/ML-Passionate/Python-
 ## SCIKIT-LEARN.md
 O Scikit-learn é uma das bibliotecas mais populares e amplamente utilizadas em Python para aprendizado de máquina. Ela oferece uma coleção robusta de ferramentas para análise de dados, pré-processamento, e implementação de modelos de aprendizado supervisionado e não supervisionado, como regressão, classificação, clustering, redução de dimensionalidade, e validação de modelos. A biblioteca é fácil de usar e bem documentada, sendo ideal tanto para iniciantes quanto para profissionais que buscam implementar soluções rápidas e eficientes em projetos de machine learning. Além disso, o Scikit-learn se integra perfeitamente com outras bibliotecas do ecossistema Python, como NumPy, SciPy e matplotlib.
 
-Cheat code das funções do [Scikit-learn](https://github.com/ML-Passionate/Python-Libs-Public/blob/main/Scikit-learn.MD)
+Cheat code das funções do [Scikit-learn](https://github.com/ML-Passionate/Python-Libs-Public/blob/main/Scikit-Learn.MD)
 
