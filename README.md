@@ -24,7 +24,7 @@ Cheat code das funções do [Scikit-learn](https://github.com/ML-Passionate/Pyth
 ## 5. SEABORN.md
 Seaborn: Biblioteca de visualização de dados baseada no Matplotlib, projetada para tornar a criação de gráficos estatísticos mais simples e atraente, oferecendo suporte nativo para dataframes do Pandas e estilos pré-configurados.
 
-Cheat code das funções do [Seaborn](https://github.com/ML-Passionate/Python-Libs-Public/blob/main/SEABORN.MD)
+Cheat code das funções do [Seaborn](https://github.com/ML-Passionate/Python-Libs-Public/blob/main/Seaborn.MD)
 
 ## 6. XGBOOST.md
 XGBoost: Implementação otimizada de gradient boosting, amplamente utilizada em machine learning para problemas de regressão e classificação, conhecida por sua eficiência, escalabilidade e alto desempenho em competições de ciência de dados.
