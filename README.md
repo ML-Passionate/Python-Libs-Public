@@ -29,15 +29,15 @@ Cheat code das funções do [Seaborn](https://github.com/ML-Passionate/Python-Li
 ## 6. XGBOOST.md
 XGBoost: Implementação otimizada de gradient boosting, amplamente utilizada em machine learning para problemas de regressão e classificação, conhecida por sua eficiência, escalabilidade e alto desempenho em competições de ciência de dados.
 
-Cheat code das funções do [XGBoost](https://github.com/ML-Passionate/Python-Libs-Public/blob/main/XGBOOST.MD)
+Cheat code das funções do [XGBoost](https://github.com/ML-Passionate/Python-Libs-Public/blob/main/XGBoost.MD)
 
 ## 7. TENSORFLOW.md
 TensorFlow: Framework open-source desenvolvido pelo Google para aprendizado profundo e machine learning, oferecendo suporte para redes neurais complexas, treinamento distribuído e inferência em diversas plataformas, incluindo dispositivos móveis e nuvem.
 
-Cheat code das funções do [Tensorflow](https://github.com/ML-Passionate/Python-Libs-Public/blob/main/TENSORFLOW.MD)
+Cheat code das funções do [Tensorflow](https://github.com/ML-Passionate/Python-Libs-Public/blob/main/Tensorflow.MD)
 
 ## 8. PYTORCH.md
 PyTorch: Biblioteca flexível e intuitiva para aprendizado profundo, desenvolvida pela Meta, que se destaca pelo uso dinâmico de grafos computacionais e integração com GPUs, sendo amplamente adotada tanto na pesquisa acadêmica quanto na indústria.
 
-Cheat code das funções do [Pytorch](https://github.com/ML-Passionate/Python-Libs-Public/blob/main/PYTORCH.MD)
+Cheat code das funções do [Pytorch](https://github.com/ML-Passionate/Python-Libs-Public/blob/main/Pytorch.MD)
 
