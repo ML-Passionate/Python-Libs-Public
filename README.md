@@ -11,8 +11,8 @@ A biblioteca **NumPy** (Numerical Python) é uma das mais fundamentais para comp
 
 Cheat code das funções do [Numpy](https://github.com/ML-Passionate/Python-Libs-Public/blob/main/Numpy.MD)
 
-## 3. MATPROTLIB
-A Matprotlibé uma biblioteca Python voltada para o processamento e análise de dados, especialmente em contextos de modelagem matemática e científica. Ela oferece uma série de ferramentas e funções para manipulação de matrizes, operações numéricas e visualização de gráficos, facilitando o desenvolvimento de algoritmos em áreas como aprendizado de máquina, álgebra linear e otimização. Embora não seja tão amplamente conhecida quanto outras bibliotecas como NumPy ou SciPy, a Matlibpro foca em tornar a matemática computacional mais acessível e eficiente, integrando facilmente com outras bibliotecas populares do ecossistema Python.
+## 3. MATPLOTLIB
+A Matplotlib é uma biblioteca Python voltada para o processamento e análise de dados, especialmente em contextos de modelagem matemática e científica. Ela oferece uma série de ferramentas e funções para manipulação de matrizes, operações numéricas e visualização de gráficos, facilitando o desenvolvimento de algoritmos em áreas como aprendizado de máquina, álgebra linear e otimização. Embora não seja tão amplamente conhecida quanto outras bibliotecas como NumPy ou SciPy, a Matlibpro foca em tornar a matemática computacional mais acessível e eficiente, integrando facilmente com outras bibliotecas populares do ecossistema Python.
 
 Cheat code das funções do [MatlibPro](https://github.com/ML-Passionate/Python-Libs-Public/blob/main/Matlibpro.MD)
 
