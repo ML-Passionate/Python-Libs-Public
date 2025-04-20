@@ -1,5 +1,5 @@
 # Python-Libs-Public
- Cheat codes de bibliotecas Python importantes
+ Cheat codes de bibliotecas Python mais importantes
  
 ## 1. PANDAS
 A biblioteca **pandas** é uma das mais populares do Python para manipulação e análise de dados, oferecendo estruturas de dados flexíveis e eficientes, como **DataFrame** e **Series**. Com pandas, é possível carregar, limpar, transformar e visualizar dados de forma intuitiva, utilizando operações similares às de bancos de dados e planilhas. Além disso, a biblioteca suporta a leitura e escrita de diversos formatos, como CSV, Excel, JSON e SQL, tornando-se essencial para cientistas de dados, analistas e engenheiros que lidam com grandes volumes de informações.
